@@ -35,6 +35,6 @@ I learned that the library you use to extract data from websites dramatically af
 The relationship between URL’s crawled and time is linear according to the graph, so If it takes 1.95 minutes time to crawl 2206 pages, then crawling 10 million pages should take about 8,839 minutes. 1 billion pages should take about 883,952 minutes.
 
 ### Resources
-[scrapy](https://scrapy.org/)
+[scrapy](https://scrapy.org/) \n
 [pyplot](https://matplotlib.org/stable/index.html)
 
